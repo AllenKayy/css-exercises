@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd_numbered_el {
+    background-color: #dd799a;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#second_el {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+.font_size {
+    font-size: 24px;
+}
+#fourth_el {
+    background-color: rgb(167, 255, 167);
+    font-size: 24px;
+    font-weight: bold;
+}
