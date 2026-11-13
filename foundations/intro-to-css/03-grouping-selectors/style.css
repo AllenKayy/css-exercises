@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+.btn1 {
+    background-color: hsl(0, 0%, 0%);
+    color: hsl(0, 0%, 100%);
+}
+.btn2 {
+    background-color: hsl(46, 81%, 51%);
+}
+.shared_styles {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
